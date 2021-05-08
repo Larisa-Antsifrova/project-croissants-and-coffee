@@ -1,2 +1,3 @@
 # project-croissants-and-coffee
-Simple yet powerful game for two :)
+
+Prepare some tea, get some croissants, and enjoy!
